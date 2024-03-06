@@ -2,7 +2,7 @@
   "name": "kanjiapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tenapato/kanji-app",
+  "homepage": ".",
   "dependencies": {
     "perfect-scrollbar": "^1.5.5",
     "react": "^16.5.2",
